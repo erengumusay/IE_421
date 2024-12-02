@@ -13,4 +13,8 @@ https://data.ibb.gov.tr/dataset/istanbul-trafik-indeksi/resource/ba47eacb-a4e1-4
 https://data.ibb.gov.tr/dataset/hourly-traffic-density-data-set (hourly traffic density data)
 https://tr.wikipedia.org/wiki/2024-25_Süper_Lig_maçları (football matches’ dates and locations data)
 https://tr.wikipedia.org/wiki/Türkiye%27deki_metro_hatları_listesi (subway lines data for their date of starting to service)
-GitHub website: 
+
+GitHub website: https://erengumusay.github.io/IE_421_Term_Project/
+Eren Gümüşay 121203082  
+Fahed Fahham 121203003  
+Mohammad Siag 121203010
