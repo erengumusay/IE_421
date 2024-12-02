@@ -1,4 +1,4 @@
-Theme: Urbanization and Transportation
+This repository containts a data science project about Urbanization and Transportation theme by focusing on Istanbul's traffic with 3 specific questions.
 
 Question 1: Does Monday Syndrome have an effect on traffic density in Istanbul?
 We will be investigating the possible correlation between ‘Monday Syndrome’, that refers to lacking motivation, having less willpower and feeling anxious to start the week, and Istanbul’s traffic. By analyzing the hourly and daily traffic density datasets provided by IBB, we will compare Monday to other weekdays.
@@ -15,6 +15,7 @@ https://tr.wikipedia.org/wiki/2024-25_Süper_Lig_maçları (football matches’ 
 https://tr.wikipedia.org/wiki/Türkiye%27deki_metro_hatları_listesi (subway lines data for their date of starting to service)
 
 GitHub website: https://erengumusay.github.io/IE_421_Term_Project/
+
 Eren Gümüşay 121203082  
 Fahed Fahham 121203003  
 Mohammad Siag 121203010
